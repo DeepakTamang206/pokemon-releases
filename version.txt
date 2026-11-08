@@ -1,3 +1,3 @@
 v1.0.2
-https://cdn.jsdelivr.net/gh/DeepakTamang206/pokemon-releases@v1.0.2/game.zip
+https://cdn.jsdelivr.net/gh/DeepakTamang206/pokemon-releases@98b38f8/game.zip
 Pokemon Dark Dungeon v1.0.2 - Audio and Update Engine Overhaul
