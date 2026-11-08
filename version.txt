@@ -1,3 +1,3 @@
 v1.0.1
-https://github.com/DeepakTamang206/pokemon-releases/releases/download/v1.0.0/game.zip
-Pokemon Dark Dungeon v1.0.1 - Submarine Dock Stone Door Fixes and Auto-Update Toggle!
+https://cdn.jsdelivr.net/gh/DeepakTamang206/pokemon-releases@v1.0.1/game.zip
+Pokemon Dark Dungeon v1.0.1 - Submarine Dock Stone Door Fixes, Auto-Update Toggle, and F5 Audio Persistence!
